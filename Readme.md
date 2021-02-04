@@ -10,7 +10,7 @@
 
 - Go back to the root folder and type `npm run dev`to run both the front and back end parts of the application
 
-- You can launch the app thruoght the 3000 port in your localhost domain
+- You can launch the app throught the 3000 port in your localhost domain
 
 - Enjoy !
 
@@ -24,6 +24,12 @@
 # DB
 
 Mongodb Atlas is being used in this project for saving data. Mongoose is the ORM choosen for this project
+
+# The application
+
+You need to sign up for a new account before using the application.
+
+When signing up, you can see a little usage of the ricky API (https://rickandmortyapi.com/), consumed by the back-end and displayed via the front-end
 
 ------------------------------------------------------------------------------------------------------------
 
