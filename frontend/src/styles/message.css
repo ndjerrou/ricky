@@ -1,0 +1,7 @@
+.message {
+  border: 2px solid red;
+  color: brown;
+  box-shadow: 0.9px 0.9px 4px #ccc;
+  padding: 1rem 1.5rem;
+  margin: 20px 0;
+}

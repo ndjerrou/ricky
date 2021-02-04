@@ -1,0 +1,9 @@
+#num {
+  font-size: 3rem;
+  text-align: center;
+}
+#warning {
+  border: 0.5rem solid #ff11aa;
+  font-size: 1rem;
+  padding: 2rem;
+}

@@ -1,0 +1,28 @@
+.single-character {
+  max-width: 900px;
+  margin: auto 0 auto;
+  background: white;
+  flex-basis: calc(33.333% - 4rem);
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin: 0 2rem 2rem 2rem;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  background: white;
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.03);
+  position: relative;
+}
+
+.single-character .character-figure {
+  box-shadow: none;
+  margin: 0 2rem 0 0;
+  border: 0;
+  padding: 0;
+  flex: 1 0 60%;
+  max-width: 60%;
+}
+
+.single-character .character-photo {
+  width: 100%;
+  margin: 0;
+}

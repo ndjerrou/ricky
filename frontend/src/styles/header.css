@@ -1,0 +1,35 @@
+.nav {
+  background: #0d6efd;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.nav > a {
+  align-self: center;
+  color: #d2d0db;
+  padding: 0 0.7rem;
+  text-decoration: none;
+}
+
+.nav__list {
+  width: auto;
+  display: flex;
+  font-size: 1.6rem;
+}
+
+.nav__item {
+  padding: 0.5rem 2rem;
+  list-style: none;
+  border: 0;
+}
+
+.nav__item > a {
+  color: #d2d0db;
+  transition: color 0.35s;
+  text-decoration: none;
+}
+
+.nav__item > a:hover {
+  color: #fff;
+}

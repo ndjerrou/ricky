@@ -1,0 +1,50 @@
+figcaption {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  border: 2px solid rgba(128, 128, 128, 0.45);
+  background: none;
+  flex-basis: 48%;
+  display: inline-block;
+  line-height: 2;
+  text-decoration: none;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: blue;
+  transition: all 0.2s;
+  box-sizing: padding-box;
+  font-size: 2rem;
+  padding: 0 1rem;
+}
+
+button:hover,
+button:focus {
+  border-color: blue;
+  outline: 0;
+  cursor: pointer;
+}
+.character-figure {
+  margin: 0 2rem 2rem 2rem;
+  padding: 2rem;
+  background: white;
+  border: 1px solid lightgray;
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.03);
+  position: relative;
+}
+.character-photo-wrap {
+  position: relative;
+}
+
+.character-photo {
+  margin-left: -2rem;
+  margin-top: -2rem;
+  max-width: none;
+}
+
+.fav {
+  border: 1px solid red;
+  color: red;
+}

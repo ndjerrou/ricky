@@ -1,0 +1,9 @@
+#characters-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 5rem auto;
+  height: 50vh;
+}
