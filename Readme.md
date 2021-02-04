@@ -21,6 +21,12 @@
 - React Redux to have a global state container
 - Nodejs for the back end part with an express server
 
+# DB
+
+Mongodb Atlas is being used in this project for saving data. Mongoose is the ORM choosen for this project
+
+------------------------------------------------------------------------------------------------------------
+
 Everything is not perfect especially the fav list part but I tried to do my best. Sorry for the delay !
 
 By @ndjerrou
